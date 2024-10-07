@@ -1,15 +1,5 @@
 
----
-layout: base
-title: Student Home 
-image: /images/mario_animation.png
-description: Home Page
-hide: true
----
-
 # Welcome to AP Computer Science Principles
-
-<img src="{{ site.baseurl }}/images/purple.png" style="width: 80%; max-width: 800px; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
 
 <div style="background-color: #da95f5; padding: 20px; border-radius: 15px;">
   <h2 style="color: black;">AP CSP Students  Click Here!</h2>
@@ -106,7 +96,6 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/github/pages/3_3_hacks"> 3.3 Hacks </a></td>
-
     </tr>
 </table>
 
