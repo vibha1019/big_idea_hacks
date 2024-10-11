@@ -9,6 +9,10 @@
         <td><a href="{{site.baseurl}}/github/pages/3_4_hacks"> 3.4 Hacks </a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_8_hacks"> 3.8 Hacks </a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_10_hacks"> 3.10 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_2_hacks"> 3.2 Hacks </a></td>
+
+
+
     </tr>
 </table>
 
